@@ -1,2 +1,4 @@
 This is B file
 this change made to indicate pull function
+
+branch-- func2
