@@ -1,0 +1,2 @@
+Hello, I am file C
+this is 2nd change in file C
