@@ -2,3 +2,6 @@ This is B file
 this change made to indicate pull function
 
 branch-- func2
+
+
+I am 2nd developer changes in B file to indiacate pull
